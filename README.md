@@ -1,1 +1,4 @@
-# portfo
+# Portfolio
+
+Author: Angelina Poltavskiy
+
